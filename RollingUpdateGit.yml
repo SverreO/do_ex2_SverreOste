@@ -15,7 +15,7 @@
   sudo: yes
   vars:
     # https://github.com/jweissig/episode-47/releases
-    app_version: release-0.02
+    app_version: release-0.02 #comment this to get the latest version
   serial: 1
 
   pre_tasks:
